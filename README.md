@@ -12,7 +12,9 @@ In this project we use Adaline algorithm as an Audio Filter where we load an aud
 
 ## Adaline_DV.m
 This work consists of combining hardware as input for the ANN by usign an Arduino UNO conected to MATLAB and a voltage difference circuit shown in figure 3.
+
 ![_figure 3: Voltage Difference diagram used_](https://github.com/Camiloalejan/ADALINE-Algorithm-and-Practical-Examples/blob/main/images/Voltage%20Difference.png)
+
 Once we get the data, we make a linear regression with Adaline and we get the results as in figure 4.
 ![_figure 4: Results of the linear regression from the voltage difference circuit_](https://github.com/Camiloalejan/ADALINE-Algorithm-and-Practical-Examples/blob/main/images/Adaline_DV_results.png)
 
